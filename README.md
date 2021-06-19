@@ -20,7 +20,7 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/DESTROYER-32">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=destroyer19991&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" alt="DESTROYER-32's GitHub Stats" /> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=destroyer-32&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" alt="DESTROYER-32's GitHub Stats" /> 
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTROYER-32&layout=compact&hide_border=true&theme=blueberry" alt="Destroyer's Top Languages" />
   </a>
 </p>
