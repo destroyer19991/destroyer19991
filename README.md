@@ -14,7 +14,7 @@
 
 <h3> Spotify - Now Vibing TO 🎧</h3>
 <p align="center">
-  <a target="_blank" href="https://open.spotify.com/user/zgz9ua5ggfxqktbyl9vjj93gb"><img src="https://vercel.com/destroyer19991/destroyer-32/api/spotify" alt="Spotify's Now Playing" width="350" /></a>
+  <a target="_blank" href="https://open.spotify.com/user/zgz9ua5ggfxqktbyl9vjj93gb"><img src="https://destroyer-32.vercel.app/api/spotify" alt="Spotify's Now Playing" width="350" /></a>
 </p>
 
 
